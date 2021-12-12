@@ -1,0 +1,10 @@
+export const userState$ = (state) => state.user;
+export const toastState$ = (state) => state.toast;
+export const loginState$ = (state) => state.login;
+export const modalState$ = (state) => state.modal;
+export const infodefaultState$ = (state) => state.infodefault;
+export const listStudent$ = (state) => state.listStudent;
+export const student$ = (state) => state.student;
+export const bangDiem$ = (state) => state.bangdiems;
+export const tkb$ = (state) => state.tkb;
+export const thongBao$ = (state) => state.thongBao;
